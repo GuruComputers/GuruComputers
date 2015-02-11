@@ -46,7 +46,7 @@ Section Two Css Rules
 ****************************************/
 .sec-two {
 	width: 75%;
-	height: auto;
+	height: 100%;
 	padding: .5%;
 	float: right;
 	margin-right: 2.5%;
@@ -67,7 +67,7 @@ Section Two Css Rules
 
 .fc {
 	width: 100%;
-	height: 80%;
+	height: 10%;
 	background-color: black;
 	color: white;
 }
