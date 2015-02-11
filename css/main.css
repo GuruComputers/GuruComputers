@@ -28,7 +28,8 @@ Section One Css Rules
 	height: auto;
 }
 
-.icon:hover {
+.icon:hover,
+.icon.selected {
 	background: white;
 	opacity: .2;
 }
