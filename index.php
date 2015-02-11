@@ -29,7 +29,7 @@
 				<img src="img/icons/webdev.png" alt="Computer Repairs" class="icon">
 				<br />
 				<img src="img/icons/computer_repairs.png" alt="CD Printing & Duplication" class="icon">
-				<img src="img/icons/cd_printing.png" alt="CD Printing & Duplication" class="icon">
+				<img src="img/icons/mobile_repairs.png" alt="CD Printing & Duplication" class="icon">
 				<br />
 				<img src="img/icons/cd_printing.png" alt="CD Printing & Duplication" class="icon">
 				<img src="img/icons/cd_printing.png" alt="CD Printing & Duplication" class="icon">
