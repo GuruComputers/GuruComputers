@@ -23,8 +23,10 @@
 	</head>
 	<body>
 		<header>
-			<img src="img/logo.png" alt="Guru Computers Logo" class="logo">
-			<img src="img/cd_printing_icon.png" alt="CD Printing & Duplication">
+			<div class = "head">
+				<img src="img/logo.png" alt="Guru Computers Logo" class="logo">
+				<img src="img/cd_printing_icon.png" alt="CD Printing & Duplication">
+			</div>
 		</header>
 		<section class="sec-one">
 			<nav>

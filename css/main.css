@@ -5,12 +5,16 @@ body {
 	background-color: #BCC6CC;
 }
 
-.logo {
+/****************************************
+Header Css Rules
+****************************************/
+.head {
 	width: 15%;
 	height: auto;
 	padding: .5%;
 }
 
-/****************************************
-Header Css Rules
-****************************************/
+.logo {
+	width: 100%;
+	height: auto;
+}
