@@ -27,6 +27,13 @@ Section One Css Rules
 	max-width: 49%;
 }
 
+.pair-one,
+.pair-two,
+.pair-three,
+.pair-four {
+	width: 100%;
+}
+
 /****************************************
 Section Two Css Rules
 ****************************************/
