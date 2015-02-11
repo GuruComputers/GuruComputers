@@ -31,7 +31,7 @@
 			</nav>
 		</section>
 		<section class="sec-two">
-			
+			<?php include 'includes/dave/console.php' ?>			
 		</section>
 		<footer>
 			<?php include 'includes/neil/footer.php' ?>
