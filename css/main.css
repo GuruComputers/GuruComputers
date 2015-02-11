@@ -14,6 +14,7 @@ Section One Css Rules
 	padding: .5%;
 	float:left;
 	display: block;
+	box-shadow: 10px 10px 5px #888888;
 }
 
 .logo {
