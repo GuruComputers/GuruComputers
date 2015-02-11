@@ -27,6 +27,20 @@
 				<img src="img/logo.png" alt="Guru Computers Logo" class="logo">
 				<img src="img/cd_printing_icon.png" alt="CD Printing & Duplication">
 			</div>
+			<img src="img/logo.png" alt="Guru Computers Logo" class="logo">
+			<br />
+			<img src="img/cd_printing_icon.png" alt="CD Printing & Duplication" class="icon">
+			<img src="img/cd_printing_icon.png" alt="CD Printing & Duplication" class="icon">
+			<br />
+			<img src="img/cd_printing_icon.png" alt="CD Printing & Duplication" class="icon">
+			<img src="img/cd_printing_icon.png" alt="CD Printing & Duplication" class="icon">
+			<br />
+			<img src="img/cd_printing_icon.png" alt="CD Printing & Duplication" class="icon">
+			<img src="img/cd_printing_icon.png" alt="CD Printing & Duplication" class="icon">
+			<br />
+			<img src="img/cd_printing_icon.png" alt="CD Printing & Duplication" class="icon">
+			<img src="img/cd_printing_icon.png" alt="CD Printing & Duplication" class="icon">
+			<br />			
 		</header>
 		<section class="sec-one">
 			<nav>

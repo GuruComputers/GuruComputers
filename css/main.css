@@ -18,3 +18,30 @@ Header Css Rules
 	width: 100%;
 	height: auto;
 }
+
+.icon {
+	padding: .5%;
+}
+
+.sec-one {
+	width: 20%;
+	height: 100%;
+	display: block;
+}
+
+.sec-two {
+	width: 75%;
+	padding: 0 2.5%;
+	height: 100%;
+	display: block;
+}
+
+.console {
+	width: 100%;
+	height: 80%;
+	background-color: black;
+}
+/****************************************
+Header Css Rules
+****************************************/
+
