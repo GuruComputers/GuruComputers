@@ -22,27 +22,24 @@
 		<link media="all" type="text/css" rel="stylesheet" href="css/main.css">
 	</head>
 	<body>
-		<section class="sec-one">
-			<div class = "head">
+		<section>
+			<div class="sec-one">
 				<img src="img/logo.png" alt="Guru Computers Logo" class="logo">
 				<img src="img/cd_printing_icon.png" alt="CD Printing & Duplication">
+				<br />
+				<img src="img/cd_printing_icon.png" alt="CD Printing & Duplication" class="icon">
+				<img src="img/cd_printing_icon.png" alt="CD Printing & Duplication" class="icon">
+				<br />
+				<img src="img/cd_printing_icon.png" alt="CD Printing & Duplication" class="icon">
+				<img src="img/cd_printing_icon.png" alt="CD Printing & Duplication" class="icon">
+				<br />
+				<img src="img/cd_printing_icon.png" alt="CD Printing & Duplication" class="icon">
+				<img src="img/cd_printing_icon.png" alt="CD Printing & Duplication" class="icon">
+				<br />
+				<img src="img/cd_printing_icon.png" alt="CD Printing & Duplication" class="icon">
+				<img src="img/cd_printing_icon.png" alt="CD Printing & Duplication" class="icon">
+				<br />			
 			</div>
-			<br />
-			<img src="img/cd_printing_icon.png" alt="CD Printing & Duplication" class="icon">
-			<img src="img/cd_printing_icon.png" alt="CD Printing & Duplication" class="icon">
-			<br />
-			<img src="img/cd_printing_icon.png" alt="CD Printing & Duplication" class="icon">
-			<img src="img/cd_printing_icon.png" alt="CD Printing & Duplication" class="icon">
-			<br />
-			<img src="img/cd_printing_icon.png" alt="CD Printing & Duplication" class="icon">
-			<img src="img/cd_printing_icon.png" alt="CD Printing & Duplication" class="icon">
-			<br />
-			<img src="img/cd_printing_icon.png" alt="CD Printing & Duplication" class="icon">
-			<img src="img/cd_printing_icon.png" alt="CD Printing & Duplication" class="icon">
-			<br />			
-			<nav>
-				<?php include 'includes/neil/menu.php'; ?>
-			</nav>
 		</section>
 		<section class="sec-two">
 			<?php 
