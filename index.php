@@ -11,8 +11,8 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta name="description" content="Need professional Services? Let us do I.T.">
-		<meta name="keywords" content="Guru Cpmputers Ltd"/>
-		<meta property="og:title" content='Guru Cpmputers Ltd'/>
+		<meta name="keywords" content="Guru Computers Ltd"/>
+		<meta property="og:title" content='Guru Computers Ltd'/>
 		<meta property="og:type" content="article"/>
 		<meta property="og:image" content="img/logo.png"/>
 		<meta property="og:description" content="Need professional Services? Let us do I.T."/>
