@@ -24,6 +24,7 @@
 		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 		<link media="all" type="text/css" rel="stylesheet" href="css/normalize.css">
 		<link media="all" type="text/css" rel="stylesheet" href="css/main.css">
+		<?php include 'js/icon.php'; ?>
 	</head>
 	<body>
 		<section>
