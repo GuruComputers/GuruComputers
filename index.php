@@ -35,7 +35,7 @@
 				<img src="img/icons/laptop_repairs.png" alt="Laptop Repairs" class="icon c6">
 				<br />
 				<img src="img/icons/printing_services.png" alt="Printing Services" class="icon c7">
-				<img src="img/icons/cd_printing.png" alt="CD Printing & Duplication" class="icon c8">
+				<img src="img/icons/website_hosting.png" alt="Website Hosting" class="icon c8">
 				<br />			
 			</div>
 		</section>
