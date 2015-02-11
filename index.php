@@ -26,12 +26,12 @@
 			<div class="sec-one">
 				<img src="img/logo.png" alt="Guru Computers Logo" class="logo">
 				<img src="img/icons/cd_printing.png" alt="CD Printing & Duplication" class="icon c1">
-				<img src="img/icons/webdev.png" alt="Computer Repairs" class="icon c2">
+				<img src="img/icons/webdev.png" alt="Website Development" class="icon c2">
 				<br />
-				<img src="img/icons/computer_repairs.png" alt="CD Printing & Duplication" class="icon c3">
-				<img src="img/icons/mobile_repairs.png" alt="CD Printing & Duplication" class="icon c4">
+				<img src="img/icons/computer_repairs.png" alt="Computer Repairs" class="icon c3">
+				<img src="img/icons/mobile_repairs.png" alt="Mobile Repairs" class="icon c4">
 				<br />
-				<img src="img/icons/cd_printing.png" alt="CD Printing & Duplication" class="icon c5">
+				<img src="img/icons/console_repairs.png" alt="Console Repairs" class="icon c5">
 				<img src="img/icons/cd_printing.png" alt="CD Printing & Duplication" class="icon c6">
 				<br />
 				<img src="img/icons/cd_printing.png" alt="CD Printing & Duplication" class="icon c7">
