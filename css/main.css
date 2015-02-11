@@ -28,6 +28,11 @@ Section One Css Rules
 	height: auto;
 }
 
+.icon:hover {
+	background: white;
+	opacity: .2;
+}
+
 .pair-one,
 .pair-two,
 .pair-three,
