@@ -9,10 +9,11 @@ body {
 Section One Css Rules
 ****************************************/
 .sec-one {
-	width: 15%;
-	height: auto;
+	width: 20%;
+	height: 100%;
 	padding: .5%;
 	float:left;
+	display: block;
 }
 
 .logo {
@@ -23,19 +24,6 @@ Section One Css Rules
 
 .icon {
 	padding: .5%;
-}
-
-.sec-one {
-	width: 20%;
-	height: 100%;
-	display: block;
-}
-
-.sec-two {
-	width: 75%;
-	padding: 0 2.5%;
-	height: 100%;
-	display: block;
 }
 
 #console {
