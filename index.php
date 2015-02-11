@@ -26,7 +26,7 @@
 			<div class="sec-one">
 				<img src="img/logo.png" alt="Guru Computers Logo" class="logo">
 				<img src="img/icons/cd_printing.png" alt="CD Printing & Duplication" class="icon">
-				<img src="img/icons/webdev.png" alt="Website Development" class="icon">
+				<img src="img/icons/computer_repairs.png" alt="Computer Repairs" class="icon">
 				<br />
 				<img src="img/icons/cd_printing.png" alt="CD Printing & Duplication" class="icon">
 				<img src="img/icons/cd_printing.png" alt="CD Printing & Duplication" class="icon">
