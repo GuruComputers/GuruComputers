@@ -55,7 +55,7 @@
 			</div>			
 			<footer>
 				<div class="fc">
-					<?php include 'includes/neil/footer.php'; ?>
+					FOOTER
 				</div>
 			</footer>
 		</section>
