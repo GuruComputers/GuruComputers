@@ -23,13 +23,12 @@
 	</head>
 	<body>
 		<header>
-			<nav>
-				<?php include 'includes/neil/menu.php' ?>
-			</nav>
 
 		</header>
 		<section class="sec-one">
-
+			<nav>
+				<?php include 'includes/neil/menu.php' ?>
+			</nav>
 		</section>
 		<section class="sec-two">
 			
