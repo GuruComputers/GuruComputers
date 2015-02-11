@@ -18,6 +18,7 @@ Section One Css Rules
 .logo {
 	width: 100%;
 	height: auto;
+	padding-bottom: 2%;
 }
 
 .icon {
