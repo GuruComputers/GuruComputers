@@ -1,3 +1,11 @@
+/****************************************
+General Css Rules
+****************************************/
 body {
 	background-color: silver;
+}
+
+.logo {
+	width: 15%;
+	height: auto;
 }
