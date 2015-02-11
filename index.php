@@ -39,11 +39,13 @@
 				<br />			
 			</div>
 		</section>
-		<section class="sec-two">
-			<?php 
-				include 'includes/dave/ticker.php';
-				include 'includes/dave/console.php'; 
-			?>			
+		<section>
+			<div class="sec-two">
+				<?php 
+					include 'includes/dave/ticker.php';
+					include 'includes/dave/console.php'; 
+				?>
+			</div>			
 		</section>
 		<footer>
 			<?php include 'includes/neil/footer.php'; ?>
