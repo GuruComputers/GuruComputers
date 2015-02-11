@@ -1,3 +1,2 @@
-<?php
-
-?>
+<div id="console">
+</div>
