@@ -27,14 +27,17 @@
 		</header>
 		<section class="sec-one">
 			<nav>
-				<?php include 'includes/neil/menu.php' ?>
+				<?php include 'includes/neil/menu.php'; ?>
 			</nav>
 		</section>
 		<section class="sec-two">
-			<?php include 'includes/dave/console.php' ?>			
+			<?php 
+				include 'includes/dave/ticker.php';
+				include 'includes/dave/console.php'; 
+			?>			
 		</section>
 		<footer>
-			<?php include 'includes/neil/footer.php' ?>
+			<?php include 'includes/neil/footer.php'; ?>
 		</footer>
 	</body>
 </html>
