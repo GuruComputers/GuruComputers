@@ -8,14 +8,13 @@
 		<meta name="keywords" content="Guru Cpmputers Ltd"/>
 		<meta property="og:title" content='Guru Cpmputers Ltd'/>
 		<meta property="og:type" content="article"/>
-		<meta property="og:image" content="./img/logo.png"/>
+		<meta property="og:image" content="img/logo.png"/>
 		<meta property="og:description" content="Need professional Services? Let us do I.T."/>
 		<meta name="twitter:card" content="summary"/>
 		<meta name="twitter:title" content='Guru Cpmputers Ltd'/>
 		<meta name="twitter:description" content="Need professional Services? Let us do I.T."/>
-		<meta name="twitter:image" content="./img/logo.png"/>
+		<meta name="twitter:image" content="img/logo.png"/>
 		<title>Guru Computers Ltd</title>
-		<link media="all" type="text/css" rel="stylesheet" href="../css/normalize.css">
-		<link media="all" type="text/css" rel="stylesheet" href="../css/main.css">
+		<link media="all" type="text/css" rel="stylesheet" href="css/normalize.css">
+		<link media="all" type="text/css" rel="stylesheet" href="css/main.css">
 	</head>
-	
