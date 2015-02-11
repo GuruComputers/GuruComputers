@@ -24,7 +24,7 @@
 	<body>
 		<header>
 			<nav>
-				<?php include 'includes/menu.php' ?>
+				<?php include 'includes/neil/menu.php' ?>
 			</nav>
 
 		</header>
@@ -35,7 +35,7 @@
 			
 		</section>
 		<footer>
-			<?php include 'includes/footer.php' ?>
+			<?php include 'includes/neil/footer.php' ?>
 		</footer>
 	</body>
 </html>
