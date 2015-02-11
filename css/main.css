@@ -26,12 +26,6 @@ Section One Css Rules
 	padding: .5%;
 }
 
-#console {
-	width: 100%;
-	height: 80%;
-	background-color: black;
-}
-
 /****************************************
 Section Two Css Rules
 ****************************************/
@@ -40,4 +34,17 @@ Section Two Css Rules
 	height: auto;
 	padding: .5%;
 	float: right;
+}
+
+#ticker {
+	width: 200%;
+	height: 10%;
+	background-color: black;
+	color: white;
+}
+
+#console {
+	width: 100%;
+	height: 80%;
+	background-color: white;
 }
