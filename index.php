@@ -29,22 +29,18 @@
 					<img src="img/icons/cd_printing.png" alt="CD Printing & Duplication" class="icon c1">
 					<img src="img/icons/webdev.png" alt="Website Development" class="icon c2">
 				</div>
-				<br />
 				<div class="pair-two">
 					<img src="img/icons/computer_repairs.png" alt="Computer Repairs" class="icon c3">
 					<img src="img/icons/mobile_repairs.png" alt="Mobile Repairs" class="icon c4">
 				</div>
-				<br />
 				<div class="pair-three">
 					<img src="img/icons/console_repairs.png" alt="Console Repairs" class="icon c5">
 					<img src="img/icons/laptop_repairs.png" alt="Laptop Repairs" class="icon c6">
 				</div>
-				<br />
 				<div class="pair-four">
 					<img src="img/icons/printing_services.png" alt="Printing Services" class="icon c7">
 					<img src="img/icons/website_hosting.png" alt="Website Hosting" class="icon c8">
-				</div>
-				<br />			
+				</div>			
 			</div>
 		</section>
 		<section>
