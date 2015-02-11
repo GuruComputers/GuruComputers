@@ -24,7 +24,8 @@ Section One Css Rules
 
 .icon {
 	padding: .5%;
-	width: 43%;
+	width: 40%;
+	height: auto;
 }
 
 .pair-one,
