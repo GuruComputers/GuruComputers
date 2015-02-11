@@ -21,6 +21,7 @@
 		<meta name="twitter:description" content="Need professional Services? Let us do I.T."/>
 		<meta name="twitter:image" content="img/logo.png"/>
 		<title>Guru Computers Ltd</title>
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 		<link media="all" type="text/css" rel="stylesheet" href="css/normalize.css">
 		<link media="all" type="text/css" rel="stylesheet" href="css/main.css">
 	</head>
