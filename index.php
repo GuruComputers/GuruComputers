@@ -51,13 +51,13 @@
 				<?php 
 					include 'includes/dave/ticker.php';
 					include 'includes/dave/console.php'; 
-				?>
-			</div>			
-			<footer>
-				<div class="fc">
-					FOOTER
-				</div>
-			</footer>
+				?>			
+				<footer>
+					<div class="fc">
+						FOOTER
+					</div>
+				</footer>
+			</div>
 		</section>
 	</body>
 </html>
