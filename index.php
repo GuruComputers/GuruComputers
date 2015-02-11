@@ -23,7 +23,7 @@
 	</head>
 	<body>
 		<header>
-			<img src="img/logo.png" alt="Guru Computers Logo">
+			<img src="img/logo.png" alt="Guru Computers Logo" class="logo">
 		</header>
 		<section class="sec-one">
 			<nav>
