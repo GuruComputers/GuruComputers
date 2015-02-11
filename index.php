@@ -18,3 +18,19 @@
 		<link media="all" type="text/css" rel="stylesheet" href="css/normalize.css">
 		<link media="all" type="text/css" rel="stylesheet" href="css/main.css">
 	</head>
+	<body>
+		<header>
+			<nav>
+				
+			</nav>
+
+		</header>
+		<section class="sec-one">
+
+		</section>
+		<section class="sec-two">
+			
+		</section>
+		<footer>
+			
+		</footer>
