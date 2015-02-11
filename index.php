@@ -22,7 +22,7 @@
 		<link media="all" type="text/css" rel="stylesheet" href="css/main.css">
 	</head>
 	<body>
-		<header>
+		<section class="sec-one">
 			<div class = "head">
 				<img src="img/logo.png" alt="Guru Computers Logo" class="logo">
 				<img src="img/cd_printing_icon.png" alt="CD Printing & Duplication">
@@ -40,8 +40,6 @@
 			<img src="img/cd_printing_icon.png" alt="CD Printing & Duplication" class="icon">
 			<img src="img/cd_printing_icon.png" alt="CD Printing & Duplication" class="icon">
 			<br />			
-		</header>
-		<section class="sec-one">
 			<nav>
 				<?php include 'includes/neil/menu.php'; ?>
 			</nav>
