@@ -24,6 +24,7 @@
 	<body>
 		<header>
 			<img src="img/logo.png" alt="Guru Computers Logo" class="logo">
+			<img src="img/cd_printing.png" alt="CD Printing & Duplication">
 		</header>
 		<section class="sec-one">
 			<nav>
