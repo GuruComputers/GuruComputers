@@ -24,6 +24,7 @@ Section One Css Rules
 
 .icon {
 	padding: .5%;
+	max-width: 49%;
 }
 
 /****************************************
