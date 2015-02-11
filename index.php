@@ -32,7 +32,7 @@
 				<img src="img/icons/mobile_repairs.png" alt="Mobile Repairs" class="icon c4">
 				<br />
 				<img src="img/icons/console_repairs.png" alt="Console Repairs" class="icon c5">
-				<img src="img/icons/cd_printing.png" alt="CD Printing & Duplication" class="icon c6">
+				<img src="img/icons/laptop_repairs.png" alt="Laptop Repairs" class="icon c6">
 				<br />
 				<img src="img/icons/cd_printing.png" alt="CD Printing & Duplication" class="icon c7">
 				<img src="img/icons/cd_printing.png" alt="CD Printing & Duplication" class="icon c8">
