@@ -27,7 +27,7 @@
 	<body>
 		<section>
 			<div class="sec-one">
-				<img src="img/logo.png" alt="Guru Computers Logo" class="logo">
+				<a href="./"><img src="img/logo.png" alt="Guru Computers Logo" class="logo"></a>
 				<div class="pair-one">
 					<img src="img/icons/cd_printing.png" alt="CD Printing & Duplication" class="icon c1">
 					<img src="img/icons/webdev.png" alt="Website Development" class="icon c2">
