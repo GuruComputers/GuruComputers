@@ -25,17 +25,17 @@
 		<section>
 			<div class="sec-one">
 				<img src="img/logo.png" alt="Guru Computers Logo" class="logo">
-				<img src="img/icons/cd_printing.png" alt="CD Printing & Duplication" class="icon c1">
-				<img src="img/icons/webdev.png" alt="Website Development" class="icon c2">
+				<img src="img/icons/cd_printing.png" alt="CD Printing & Duplication" class="icon">
+				<img src="img/icons/webdev.png" alt="Computer Repairs" class="icon">
 				<br />
-				<img src="img/icons/cd_printing.png" alt="CD Printing & Duplication" class="icon c3">
-				<img src="img/icons/cd_printing.png" alt="CD Printing & Duplication" class="icon c4">
+				<img src="img/icons/computer_repairs.png" alt="CD Printing & Duplication" class="icon">
+				<img src="img/icons/cd_printing.png" alt="CD Printing & Duplication" class="icon">
 				<br />
-				<img src="img/icons/cd_printing.png" alt="CD Printing & Duplication" class="icon c5">
-				<img src="img/icons/cd_printing.png" alt="CD Printing & Duplication" class="icon c6">
+				<img src="img/icons/cd_printing.png" alt="CD Printing & Duplication" class="icon">
+				<img src="img/icons/cd_printing.png" alt="CD Printing & Duplication" class="icon">
 				<br />
-				<img src="img/icons/cd_printing.png" alt="CD Printing & Duplication" class="icon c7">
-				<img src="img/icons/cd_printing.png" alt="CD Printing & Duplication" class="icon c8">
+				<img src="img/icons/cd_printing.png" alt="CD Printing & Duplication" class="icon">
+				<img src="img/icons/cd_printing.png" alt="CD Printing & Duplication" class="icon">
 				<br />			
 			</div>
 		</section>
