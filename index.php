@@ -54,7 +54,9 @@
 				?>
 			</div>			
 			<footer>
-				<?php include 'includes/neil/footer.php'; ?>
+				<div class="fc">
+					<?php include 'includes/neil/footer.php'; ?>
+				</div>
 			</footer>
 		</section>
 	</body>
