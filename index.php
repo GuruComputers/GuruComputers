@@ -1,3 +1,6 @@
+<?php
+	$cp = "home";
+?>
 <!DOCTYPE html>
 <html lang="en">
 	<head>
@@ -21,7 +24,7 @@
 	<body>
 		<header>
 			<nav>
-				
+				<?php include 'includes/menu.php' ?>
 			</nav>
 
 		</header>
@@ -32,7 +35,7 @@
 			
 		</section>
 		<footer>
-			
+			<?php include 'includes/footer.php' ?>
 		</footer>
 	</body>
 </html>
