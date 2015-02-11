@@ -53,9 +53,9 @@
 					include 'includes/dave/console.php'; 
 				?>
 			</div>			
+			<footer>
+				<?php include 'includes/neil/footer.php'; ?>
+			</footer>
 		</section>
-		<footer>
-			<?php include 'includes/neil/footer.php'; ?>
-		</footer>
 	</body>
 </html>
