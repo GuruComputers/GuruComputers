@@ -37,7 +37,7 @@ Section One Css Rules
 	display: block;
 }
 
-.console {
+#console {
 	width: 100%;
 	height: 80%;
 	background-color: black;
